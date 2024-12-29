@@ -1,2 +1,2 @@
 env:
-  Open_apikey: ${{secrets.OPENAI_API_KEY}}
+  Open_apikey: ${{ secrets.OPENAI_API_KEY }}
